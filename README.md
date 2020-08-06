@@ -16,6 +16,8 @@ Runs the app in the development mode.
 
 <a href="https://github.com/LDNzera/ecoleta-frontend">💻 | "ecoleta" (backend) repository</a>
 <hr>
+<a href="https://github.com/LDNzera/ecoleta-mobile">💻 | "ecoleta" (mobile) repository</a>
+<hr>
 
 ## 🚀 Tecnologias
 
